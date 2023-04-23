@@ -973,6 +973,10 @@ section {
   color: #cda45e;
 }
 
+.menu .menu-sections {
+  text-align: center;
+}
+
 .menu .menu-ingredients {
   margin-left: 85px;
   font-style: italic;
