@@ -169,6 +169,15 @@ h6 {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
+#header1 br {
+  display: none;
+}
+@media (max-width: 400px) {
+  #header1 br {
+    display: initial;
+  }
+}
+
 #header {
   background: rgba(12, 11, 9, 0.6);
   border-bottom: 1px solid rgba(12, 11, 9, 0.6);
