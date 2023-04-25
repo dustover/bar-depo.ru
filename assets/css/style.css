@@ -977,6 +977,14 @@ section {
   text-align: center;
 }
 
+.menu .menu-size {
+  margin-left: 85px;
+  font-style: italic;
+  font-size: 14px;
+  font-family: "Poppins";
+  color: white;
+}
+
 .menu .menu-ingredients {
   margin-left: 85px;
   font-style: italic;
