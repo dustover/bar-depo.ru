@@ -9,265 +9,333 @@ Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
 
-MENU
 
-cocktails
-tinctures
-kitchen
-beer
-alcohol
-to-the-main-page
-cocktails
-
-
-
-
-gin-and-tonic-0.25---350-rubles
-to-choose-from:-cardamom,-chamomile,-strawberry,-orange
-
-
-martini-fiero-tonic-0.25---370-rub
-
-cool-pink-0.25---450-rub
-for-gourmets-pranksters.-we-mixed-our-signature-raspberry-ginger-with-melon-and-mint.-it-turned-out-cool.
-
-
-edward-kenway-0.25---500-rubles
-light-summer-cocktail-with-martini-fiero-and-triple-sec-liqueur
-
-
-mors-0,4---550-rubles
-cranberry,-cherry-and-pomegranate-fruit-salad-for-adults
-
-
-elizabeth-swann---550-rub
-lavender-soft-long-with-the-addition-of-mint-liqueur-and-vodka
-
-
-give-people-0.4-liters-of-rum---550-rubles
-like-a-pinot-colada,-only-for-real-brutals.-rum-on-coconut-and-grapefruit,-syrups-and-all-sorts-of-cool-jokes.
-
-
-zhezh-tonik0,25-l.---450-rubles
-once-zhenya-mixed-tonic,-gin-and-salted-caramel,-it-turned-out-delicious.
-
-
-cherry-mary-0,4-l.---600-rub
-cherry,-cola-for-fun,-tabasco,-vodka,-gin.
-
-
-glory-halls-0,25-l.---450-rub
-refreshing-cocktail-with-strawberries,-a-little-spicy.
-
-
-mint-mind-0.25-l.---450-rub
-mint,-passion-fruit,-sour,-sweet.
-
-
-tequil-steers-0.25-liters.---550-rubles
-dry-pineapple-with-tequila-and-black-currant.
-
-
-milf's-kiss-0.25-l.---350-rub
-tender-"mamkin"-dessert-(strawberry/peach).
-
-
-blood-bath-0.4l---500-rub
-tomato,-spicy,-with-the-addition-of-our-signature-pepper,-cucumber-pickle-and-spices.
-
-
-goodbye-0.25l---600-rub
-we-do-not-insist,-you-will-leave-yourself.
-
-aperol,-gin,-dry-martini
-
-
-nikayasebe-0,25l---600-rub
-our-second-twist-on-negroni
-aperol,-martini-fiero-and-bourbon
-
-
-shots
-
-
-lavender,-mint,-gin---0.04-l.---250-rubles
-salted-caramel,-cherry,-rum---0.04-l.---250-rub
-sea-buckthorn,-raspberry-ginger,-tequila---0.04-l---250-rub
-bubble-gum,-passion-fruit,-lemon,-vodka---0.04-l---250-rub
-gingerbread,-cow,-whiskey---0.04---250-rubles
-
-set-of-5-shots---1000-rubles
-
-
-set-of-5-shake-shots-"fredi-klukver"---1000-rubles
-
--5-sweet-and-sour-shots-with-cranberries-and-watermelon
-
-
-set-of-5-shake-shots-"blue-denchik"---1000-rubles
-
--5-sweet-and-spicy-shots-with-pineapple,-citrus-and-cinnamon
-
-
-set-of-5-shrek-shake-shots---1000-rubles
-
-5-refreshingly-sour-shots-with-mintu,-apple-and-kiwi
-
-tinctures
-
-currant,-mint,-pear---150-rubles
-bread-wine-on-juniper---220-rubles
-cherry-on-bourbon---220-rubles
-ch.currant-with-juniper---150-rubles
-apple-with-cinnamon---150-rubles
-pear,-basil---150-rubles
-pepper---150-rubles
-horseradish---150-rubles
-rum-with-grapefruit-and-coconut---220-rubles
-borodinskaya---150-rubles
-cow---150-rubles
-lime,-lavender,-ginger---150-rubles
-banana,-salted-caramel---150-rubles
-kiwi,-lime---150-rubles
-lebowski---150-rubles
-beer
-
-
-cold-river---wheat-(4.5%)--200-rubles
-telman---lager-(4.5%)-250-rubles
-cold-river---blueberry-stout-(6%)---280-rubles.
-cold-river---ipa-(6.7%)---300-rubles-(temporarily-not)
-cold-river---sour-ale-(5.5%)---350-rubles
-cold-river---tomato-(5.5%)---280-rubles
-craft---check-with-the-bartender---370-rubles.
-kitchen
-
-
-
-
-herring-with-borodino-bread---200-rubles
-sandwiches-with-sprats-and-pickled-egg---250-rubles
-sandwiches-with-homemade-pate-and-marmalade-onions---250-rubles
-lard-of-two-types---250-rubles
-
-idaho-potatoes---120-rubles
-dumplings-fries-160-rubles
-croutons-with-garlic-and-cheese---200-rubles
-french-fries---100-rubles
-nuggets---130-rubles
-nuggets-with-french-fries---220-rubles
-potato-slices-with-sausages-in-bbq-sauce---290-rubles
-cottage-salad-with-sour-cream---200-rubles
-chicken-cutlet-with-cheese-and-baked-potatoes---300-rubles-(temporarily-not)
-
-sandwich-with-ham-and-cheese---230-rubles
-tuna-sandwich---280-rubles
-
-burger-on-a-plate---450-rubles
-burger-with-beef---370-rubles
-burger-with-chicken---300-rubles
-texas-bbq-burger---400-rubles-(temporarily-not-available)
-burger-with-adyghe-cheese---350-rubles
-hot-dog---250-rubles
-
-almonds---250-rubles.
-pistachios---270-rubles.
-peanuts---150-rubles.
-nachos-with-sauce---200-rubles.
-pigtail-cheese---200-rubles.
-pickled-egg---50-rubles
-dried-meat-(pork,-beef)---350rub
-meat-chips---250-rubles
-
-sauce-(bbq,-garlic,-ketchup,-cheese,-teriyaki,-sweet-and-sour,-spicy/sweet-chili)---40-rubles.
-
-
-whiskey
-
-
-the-famouse-grouse-0.04l---200-rub.
-hatozaki-0.04l---500-rubles.
-wild-turkey-rye-0.04l---600-rub.
-jim-beam-white-0,4l---220-rub.
-jim-beam-red-stag/honey---250-rub
-
-wine
-
-semi-dry-red-aragonez,-syrah-0,125---250-rub
-dry-white-riesling-0,125---250-rub
-dry-sparkling-wine-lev-golitsyn---250-rubles
-
-
-
-rum
-
-brugal-anejo-0.04l---250rub.
-negrita-spiced-0.04-l--150-rub.
-negrrita-white-0.04l---200-rub..
-giarola-white-0.04l---200-rub.
-
-
-tequila
-
-
-ley925-0.04l-250-rubles.
-
-
-gin
-
-
-barrister-in-the-assortment--150-rubles.
-green-baboon---150-rubles
-135-east-huogo-dty-gin---350-rub
-
-
-liqueurs
-
-
-sambuca-0.04l---180-rub.
-royal-cream-liqueur-0.04-l---200-rubles.
-fruko-schulz-absolute-absolute-0,04l---250-rub.
-jaegermeister-0.04---400-rub
-tundra-bitter-mint---100-rubles
-beluga-hunting-berry-bitter-280-rub
-
-
-aperitifs
-
-
-martini-fiero-0.04l---200-rub
-martini-extra-dry-0,04---200-rub
-martini-rosso-0.04---200-rubles-(temporarily-not-available)
-martini-bianco-0.04---200-rubles
-porto-tresarcos-tawny-0.04l---200rub
-aperol-0.04l---250rub..
-
-
-vodka
-
-.
-
-beluga-transatlantic-0.04---150-rubles
-royal-original-0.04---100-rubles
-royal-gold-0.04---120-rubles
-
-
-cognac
-
-
-roulette-vsop-grande-champagne-0,04l---400-rub
-
-
-brandy
-
-brunel-napoleon-vsop-0.04l---210rub.
-henri-mounier-0.04l---400-rub.
-
-
-soft-drinks
-
-homemade-lemonades-0,4-l---250-rubles.
-juice-rich-0.2l---100-rubles.
-cola/schweppes-0.2-l---80-rub
-red-bull-0.25l---170-rub.
-made-on-tilda
+Группа: Группа самого высокого уровня 		
+Открытое блюдо	0,00
+Группа: Американский 		
+Jim Beam Red Stag/Apple/Honey	250,00
+Jim Beam White	220,00
+Wild Turkey	250,00
+Wild Turkey Rye	600,00
+Камики Сакура Вуд	800,00
+Хатозаки	500,00
+Группа: Аперетивы \ Ликер 		
+Fruko Shulz Absinth Absolvent	250,00
+Martini Rosso/Extra Dry/ Bianco (Bianco)	200,00
+Martini Rosso/Extra Dry/ Bianco (Extra dry)	200,00
+Martini Rosso/Extra Dry/ Bianco (Rosso)	200,00
+Апероль	250,00
+Белуга Хантинг Ягодный	280,00
+Ликер Бузинный Нива	180,00
+Ликер Кофейный Нива	180,00
+Ликер Самбука Джарола 40	180,00
+Ликер Трипл Сек Нива	150,00
+Тундра Битер Минт	100,00
+ЦАРСКИЙ СЛИВОЧНЫЙ	200,00
+Ягермайстер	400,00
+
+Группа: Белое вино 		
+Гув Нор белое	250,00
+Рислинг Рейнский белое	250,00
+Терре дельи Эреми	200,00
+Группа: Бренди 		
+Roullet VSOP Grande Champage 	400,00
+Анри Муньу VSOP	400,00
+Брюнель Наполеон VSOP	210,00
+Группа: Бургер  \ Сендвич 		
+BBQ Техас Бургер	400,00
+Бургер на Тарелке	450,00
+Бургер с адыгейским сыром	350,00
+Бургер с говядиной	370,00
+Бургер с курицей	300,00
+Кесадилья с курицей	350,00
+Сендвич с тунцом	280,00
+Сэндвич с ветчиной и сыром	230,00
+Техас сендвич	290,00
+Хот-Дог	250,00
+Чебурек	200,00
+
+Группа: ВИНО 		
+Шато Тамань Белое	280,00
+Шато Тамань Игристое	250,00
+ШАТО ТАМАНЬ игристое	0,00
+Шато Тамань Розовое	280,00
+
+Группа: ВИСКИ 		
+Джим Бим 	250,00
+Джим Бим Ред Стаг	250,00
+Джим Бим Хани	250,00
+Джим Бим Эппл	250,00
+
+Группа: Водка 		Группа: ВОДКА
+Белуга Трансантлантик	150,00
+Царская Золотая	120,00
+Царская Оригинал	100,00
+Джин Биолоджи	150,00
+Настойка 150	150,00
+Самогон	150,00
+Царская Золотая	120,00
+Царская Ориг	100,00
+
+
+Группа: Джин 		
+135 Ист Хиого Драй	350,00
+Баристер Артемизия	150,00
+Баристер Блю	150,00
+Баристер Нэви	200,00
+Баристер Олд Том	150,00
+Баристер Пинк 	150,00
+Баристер Слое	150,00
+Барристер Оранж 	150,00
+Барристер Сухой	160,00
+Грин Бабун	150,00
+
+Группа: Игристое вино 		
+Игристое бокал	250,00
+Игристое бутылка	1 200,00
+Группа: КОНЬЯК 		
+Жак Де Ла Круа	150,00
+Кальвадос Помм Де Виктор	150,00
+Старейшина 3 года	150,00
+Группа: Кофе 		
+Американо	50,00
+Капучино	100,00
+латте	120,00
+Чай	70,00
+Эспрессо	50,00
+Группа: Красное вино 		
+Гув Нор красное	250,00
+Кубань Каберне	250,00
+Ноз Расинес Мерло	250,00
+Пределла Кьянти	250,00
+Группа: Крепкий алкоголь розлив 		
+Blend 50 мл	180,00
+Elderman 50 мл	150,00
+GlenDale 50 мл	230,00
+Lamonica Sambuca Extra 50 мл	160,00
+Legends of Scotland 50 мл	250,00
+MAC INGAL 3 лет 50 мл	140,00
+MAC INGAL 5 лет 50 мл	140,00
+NALIV. ШТРИХ 50 мл	150,00
+Pere Magloire Fine VS 50 мл	500,00
+Royal Hunt 50 мл	150,00
+Sir Clark 50 мл	130,00
+White Stag 50 мл	180,00
+William Watt 50 мл	150,00
+Аперетиво 50 мл	100,00
+Армянский коньяк 7 лет 50 мл	130,00
+Брюнель Наполеон VSOP 50 мл	240,00
+Вермут Perlino 50 мл	140,00
+Водка Северная тропа 50 мл	100,00
+ВУДМАН ДЖИН ДРАЙ 50 мл	130,00
+ВУДМАН ДЖИН ПИНК 50 мл	130,00
+КЕНТУКИ БОУТ 50 мл	230,00
+КОНЬЯК ТИГРАНАКЕРТ 6 50 мл	140,00
+МАК ДУНКАН ВИСКИ 50 мл	100,00
+МАК ДУНКАН МЁД 50 мл	100,00
+МАК ДУНКАН СПАЙСД 50 мл	100,00
+МАК ДУНКАН ЯБЛОКО 50 мл	100,00
+НАЛИВКА НА ХЛЕБНОЙ 50 мл	150,00
+настойка на северной тропе 50 мл	150,00
+РОМ ЭЛЬ БОКО БЛЭК 50 мл	160,00
+РОМ ЭЛЬ БОКО ВАЙТ 50 мл	160,00
+Рулле ВСОП 50 мл	540,00
+Сокровище тефлиса 50 мл	150,00
+ТЕКИЛА ГОЛД 50 мл	220,00
+Текила сильвер NEWTON 50 мл	200,00
+Тигернакерт VS 4х летний 50 мл	130,00
+ФРУКО ШУЛЬЦ АМАРЕТТО 50 мл	160,00
+Царская  грейпфрут 50 мл	130,00
+ЦАРСКАЯ ГРУША 50 мл	130,00
+ЦАРСКАЯ КЛЮКВЕННАЯ 50 мл	130,00
+ЦАРСКАЯ МАЛИНА 50 мл	130,00
+ЦАРСКАЯ ЦИТРОН 50 мл	130,00
+ЦАРСКИЙ СЛИВОЧНЫЙ 50 мл	130,00
+ЦАРСКОЕ СЕЛО 50 мл	130,00
+Чайковский водка 50 мл	150,00
+Группа: Крепленное вино 		
+Трес Аркос Руби Порто 	160,00
+Трес Аркос Тауни Порто 	160,00
+Группа: Кухня 		
+Соус в ассортименте	40,00
+
+Группа: ЛИКЕР 		
+Абсент Оазис	150,00
+Апероль	180,00
+Мартини Экстра Драй	150,00
+Самбука Нива	150,00
+Тундра Битер	150,00
+Тундра Битер Минт	150,00
+Тундра Битер Оранж	150,00
+
+
+Группа: Настойки 		
+Настойка 150	150,00
+Настойка 220	220,00
+Сет Базука	2000,00
+Группа: Основные холодные закуски 		
+Бутер с хумусом	250,00
+Бутер со шпротами, мар. яйцо	250,00
+Маринованное яйцо	50,00
+Паштет из цыпленка с луковым мармеладом	250,00
+Селедка с бородинским хлебом	200,00
+
+
+Группа: Пиво 		
+КВАС	0,00
+Крафт	370,00
+
+
+Группа: Пиво 		
+Brooklyn Pilsner 0.44 л.	350,00
+Cherry Ruby 0.5 л.	350,00
+Hefeweizen Banana 0.5 л.	350,00
+IPA Overfall 0.5 л.	350,00
+Ma Chere Framboise 0.5 л.	350,00
+Mon Cher Cassis 0.5 л.	350,00
+Два путя 0.5 л.	350,00
+Дорогая Вишенка 0.5 л.	350,00
+Моя дорогая малинка 0.5 л.	350,00
+Поющие птицы 0.5 л.	350,00
+ШЕРИ ЧЕРРИ 0.5 л.	350,00
+
+
+Группа: Пиво разливное 		
+Cherry Night 0,5	200,00
+IPA	260,00
+KONIX ХЕФЕВАЙЦЕР 0,5	180,00
+Peterhof 0,5	150,00
+Крафт банка	350,00
+Лагер Тельман 0,5	220,00
+Черничный стаут 0,5	240,00
+
+Группа: Разливное 		
+AIPA	300,00
+Арбузный Сауэр	250,00
+Банановый Сидр	200,00
+Дискавери Лагер	250,00
+Колдривер Сауэр	350,00
+Медовуха банан	250,00
+Полутемное Сезонное	250,00
+Пшеничка Крафт Бир	200,00
+Сауэр Джус Манго	300,00
+Светлое Премиум	250,00
+Сидр	220,00
+Телманн Пшено 	220,00
+Телманн Стаут	250,00
+Томатка	280,00
+Черничка Крафт Бир	280,00
+
+
+Группа: Ром 	 Группа: РОМ 	
+Beach House	300,00
+Brugal  Anejo	250,00
+Giarola Caribbean	200,00
+Rhum Negrita White Signature 	200,00
+Негрита Спайсд	150,00
+Нэйви Айленд Ямайка ХО Резерв	300,00
+Олд Монк Белый	170,00
+Олд Монк Выдерж.	200,00
+
+
+
+
+
+Группа: Текила 		
+Sauza Gold 	230,00
+Лей.925	250,00
+Сауза Силвер	270,00
+Текила ХАУС	60,00
+Группа: Текила 		
+Пачука Сильвер	180,00
+ТЕКИЛА ПАЧУКА СИЛЬВЕР	0,00
+
+Группа: Хаус 		
+Виски Хаус	30,00
+Водка Хаус	30,00
+Игристое Хаус	150,00
+Ром хаус	30,00
+Группа: Шотландский 		
+Macalan	700,00
+The Famouse Grouse	200,00
+
+
+Группа: Без алгокольные 	Группа: Напитки безалкогольные 		Группа: Бутылка 		
+Банка Безалкоголь	300,00
+ADRENALINE Rush 0.5 л	150,00
+AQUA MINERALE0.5 л	80,00
+ЛИМОНАД	55,00
+Напиток "Кока-кола"	440,00
+Сок	400,00
+Тоник	300,00
+Топпинг	35,00
+
+	Red Bull	170,00
+	Б/A розлив	80,00
+	Сиропы	20,00
+	сливки	30,00
+	Сок лайма	25,00
+	Сок лимона	20,00
+	сок ПЭТ	100,00
+
+
+Группа: Кухня 		
+Арахис	150,00
+Брускетта с паштетом	250,00
+Буженина с хреном	380,00
+Бургер с раной говядиной	320,00
+Бургер с рваной курицей	270,00
+Бургер с рваной свининой	290,00
+Вяленая говядина	350,00
+Вяленая курица	250,00
+Вяленая свинина	300,00
+Гренки с моцареллой	150,00
+Картофель деревенский	120,00
+Крылья баффало	320,00
+Купаты куриные	360,00
+Купаты свиные	390,00
+Наггетсы	130,00
+Паутин с мясом и моцареллой	300,00
+Пельмени фри	150,00
+Сало двух видов	250,00
+Сыр косичка	200,00
+Фисташки	250,00
+Фри	100,00
+
+Группа: Горячие закуски \ супы 		
+Буженина BBQ	450,00
+Колбаски с капустой и соусом	290,00
+Колбаски с картофельными дольками	290,00
+Макароны по-флотски	200,00
+Сборная Тарелка	500,00
+Суп-лапша	250,00
+Сырный суп	250,00
+Техасский Брискет	600,00
+
+Группа: Фри 		
+Гренки с сыром	200,00
+Картофель Айдахо	120,00
+Картофель фри	100,00
+Наггетсы	130,00
+Наггетсы с картофелем фри	220,00
+Пельмени фри	160,00
+
+	Группа: Снэки 		
+	Арахис	150,00
+	Кальмар копченый	170,00
+	Миндаль	250,00
+	Начос с соусом	200,00
+	Сыр косичка 	200,00
+	Фисташки	270,00
+	Чипсы Говядина	250,00
+	Чипсы куриные	200,00
+	Чипсы Свинья	220,00
+
+	Группа: Нарезки 		
+	Говядина вяленая	350,00
+	Индейка вяленая	350,00
+	Конина вяленая	350,00
+	Курица вяленая	350,00
+	Маринованные овощи	250,00
+	Сало двух видов	250,00
+	Свинина вяленая	350,00
