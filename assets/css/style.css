@@ -941,7 +941,7 @@ section {
 }
 
 .menu .menu-content {
-  margin-left: 85px;
+  /*margin-left: 85px;*/
   overflow: hidden;
   display: flex;
   justify-content: space-between;
@@ -987,7 +987,7 @@ section {
 }
 
 .menu .menu-size {
-  margin-left: 85px;
+  /*margin-left: 85px;*/
   font-style: italic;
   font-size: 14px;
   font-family: "Poppins";
@@ -995,7 +995,7 @@ section {
 }
 
 .menu .menu-ingredients {
-  margin-left: 85px;
+  /*margin-left: 85px;*/
   font-style: italic;
   font-size: 14px;
   font-family: "Poppins", sans-serif;
