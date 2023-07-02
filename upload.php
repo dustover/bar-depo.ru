@@ -1,8 +1,17 @@
 <?php
+$password = '1234'; //ваш пароль пориписываем сюда для возможности загружать
+$getpass = $_POST["pass"];
 $target_dir = "/var/www/u2076697/data/www/bar-depo.ru/";
 $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
 $uploadOk = 1;
 $imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
+
+
+// Проверяем правильность введённого пароля
+if ($getpass != $password){
+  echo "Пароль введён не верно. ";
+  $uploadOk = 0;
+}
 
 // Проверка, является ли файл изображения реальным
 // if(isset($_POST["submit"])) {
