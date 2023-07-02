@@ -6,9 +6,10 @@
 <form action="upload.php" method="post"
       enctype="multipart/form-data">
     Select an file to upload:
-    <input type="file" name="fileToUpload" id="fileToUpload">
+    <input type="file" name="fileToUpload" id="fileToUpload" enctype='multipart/form-data'>
+    Password:
+    <input type="password" name="pass"/>
     <input type="submit" value="Upload file menu" name="submit">
 </form>
-
 </body>
 </html>
