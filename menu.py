@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import csv
 import io
 
@@ -210,7 +211,7 @@ soup = BeautifulSoup(html, "html.parser")
 
 html = soup.prettify()
 
-html_file = open('menu_test.html', "w")
+html_file = open('menu.html', "w")
 html_file.write(html)
 html_file.close()
 print('Generation completed')
