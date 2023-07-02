@@ -147,6 +147,8 @@ for category in categories:
         html += '</div>'
         if item["size"] != '':
             html += '<div class="menu-size"><a>' + item["size"] + '</a></div>'
+        if item["item_description"] != '':
+            html += '<div class="menu-ingredients">' + item["item_description"] + '</div>'
         # html += "<div class=\"menu-item-price\">$" + item["item_price"] + "</div>"
         # html += "<div class=\"menu-item-description\">" + description + "</div>"
 
