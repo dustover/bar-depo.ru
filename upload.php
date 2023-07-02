@@ -55,4 +55,12 @@ if ($uploadOk == 0) {
     echo "К сожалению, при загрузке вашего файла произошла ошибка";
   }
 }
+// Для создания и активации виртуальной среды
+// python3 -m venv env
+// source env/bin/activate
+
+// Запуск скрипта для генерации меню
+$command = escapeshellcmd('python3 menu.py');
+$output = shell_exec($command);
+echo $output;
 ?>
