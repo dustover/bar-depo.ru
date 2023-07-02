@@ -113,19 +113,12 @@ html = '''<!DOCTYPE html>
                 <div class="col-lg-12 d-flex justify-content-center">
                     <ul id="menu-flters">
                         <li data-filter="*" class="filter-active">Всё</li>
-                        <li data-filter=".filter-liqueurs-aperitifs">Ликёры / Аперетивы</li>
-                        <li data-filter=".filter-soft-drinks">Без алкогольные напитки</li>
-                        <li data-filter=".filter-whiskey">Виски</li>
-                        <li data-filter=".filter-vodka">Водка</li>
-                        <li data-filter=".filter-calvados">Кальвадос</li>
-                        <li data-filter=".filter-cognac">Коньяк</li>
-                        <li data-filter=".filter-kitchen">Кухня</li>
-                        <li data-filter=".filter-beer">Пиво</li>
-                        <li data-filter=".filter-rum">Ром</li>
-                        <li data-filter=".filter-tequila">Текила</li>
-                        <li data-filter=".filter-coffee">Кофе</li>
-                        <li data-filter=".filter-champagne">Шампанское</li>
-                    </ul>
+                        '''
+for category in categories:
+    items = list[category]
+    html += '<li data-filter=".filter-' + category + '">' + [sub['name_category'] for sub in items][0] + '</li>'
+
+html += '''</ul>
                 </div>
             </div>
 
