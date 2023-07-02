@@ -131,26 +131,16 @@ html = '''<!DOCTYPE html>
 
             <div class="row menu-container" data-aos="fade-up" data-aos-delay="200">'''
 
-# html += "<div class=\"menu-body\">"
-
 for category in categories:
     items = list[category]
-    #
-    # html+= "<div class=\"menu-section\"><h2 class=\"menu-section-title\">" + category + "</h2>"
-    html += '''<div class="col-lg-6 menu-item filter-whiskey">
-                    <div class="menu-sections">
-                        <h2>'''
-    html += category + '''</h2>
+    name_category = [sub['name_category'] for sub in items][0]
+    html += '<div class="col-lg-6 menu-item filter-' + category + '">'
+    html += '''<div class="menu-sections">
+                        <h2>'''  + name_category + '''</h2>
                     </div>
                 </div>'''
 
     for item in items:
-        # description = item["item_description"]
-        # if item["item_vegan"] == "TRUE":
-        #     description += "(Vegan)"
-        # if item["item_glutenfree"] == "TRUE":
-        #     description += "(Gluten-Free)"
-
         html += '''<div class="col-lg-6 menu-item filter-'''
         html += category + '''">
                     <div class="menu-content">
@@ -164,8 +154,6 @@ for category in categories:
         html += '''</span>
                     </div>
                 </div>'''
-
-    html += "</div>"
 
 html += '''</main><!-- End #main -->
 <!-- ======= Footer ======= -->
