@@ -45,12 +45,12 @@ if($imageFileType != "csv") {
 
 // Проверка, не установлено ли для $uploadOk значение 0 из-за ошибки
 if ($uploadOk == 0) {
-  echo "К сожалению, ваш файл не был загружен";
+  echo "К сожалению, ваш файл не был загружен. ";
 // если все в порядке, поробуем загрузить файл
 } else {
   if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) {
     echo "Файл ". htmlspecialchars( basename( $_FILES["fileToUpload"]["name"])).
-" был загружен";
+" был загружен. ";
   } else {
     echo "К сожалению, при загрузке вашего файла произошла ошибка";
   }
@@ -59,8 +59,9 @@ if ($uploadOk == 0) {
 // python3 -m venv env
 // source env/bin/activate
 
-// Запуск скрипта для генерации меню
-$command = escapeshellcmd('python3 menu.py');
+echo "Запуск скрипта для генерации меню. ";
+$command = escapeshellcmd('python3 /var/www/u2076697/data/www/bar-depo.ru/menu.py');
 $output = shell_exec($command);
 echo $output;
+echo "Генерация завершена.";
 ?>
