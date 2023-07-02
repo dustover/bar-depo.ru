@@ -141,19 +141,16 @@ for category in categories:
                 </div>'''
 
     for item in items:
-        html += '''<div class="col-lg-6 menu-item filter-'''
-        html += category + '''">
-                    <div class="menu-content">
-                        <a>'''
+        html += '<div class="col-lg-6 menu-item filter-' + category + '"><div class="menu-content"><a>'
 
-        html += item["item_name"] + "</a><span>" + item["item_price"]
-        # html += "<div class=\"menu-item-name\">" + item["item_name"] + "</div>"
+        html += item["item_name"] + "</a><span>₽" + item["item_price"] + '</span>'
+        html += '</div>'
+        if item["size"] != '':
+            html += '<div class="menu-size"><a>' + item["size"] + '</a></div>'
         # html += "<div class=\"menu-item-price\">$" + item["item_price"] + "</div>"
         # html += "<div class=\"menu-item-description\">" + description + "</div>"
 
-        html += '''</span>
-                    </div>
-                </div>'''
+        html += '</div>'
 
 html += '''</main><!-- End #main -->
 <!-- ======= Footer ======= -->
