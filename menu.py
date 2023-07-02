@@ -1,10 +1,8 @@
-import sys
 import csv
 import io
 
 from bs4 import BeautifulSoup
 
-# css = open('style.css').read()
 csv = csv.DictReader(io.open('menu.csv', "r", encoding="utf-8-sig"))
 
 categories = []
@@ -129,7 +127,7 @@ for category in categories:
     name_category = [sub['name_category'] for sub in items][0]
     html += '<div class="col-lg-6 menu-item filter-' + category + '">'
     html += '''<div class="menu-sections">
-                        <h2>'''  + name_category + '''</h2>
+                        <h2>''' + name_category + '''</h2>
                     </div>
                 </div>'''
 
@@ -215,3 +213,4 @@ html = soup.prettify()
 html_file = open('menu_test.html', "w")
 html_file.write(html)
 html_file.close()
+print('Generation completed')
